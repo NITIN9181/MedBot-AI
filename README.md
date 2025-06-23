@@ -39,11 +39,3 @@ The repository includes the following key files and folders:
 ## License
 
 This project is licensed under the [MIT License](https://github.com/NITIN9181/MedBot-AI/blob/main/LICENSE).
-
-## Contributions
-
-(Information on how to contribute to the project would be added here.)
-
-## Contact
-
-(Contact information for the project owner would be added here.)~
