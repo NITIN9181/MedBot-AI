@@ -33,6 +33,7 @@ Question: {question}
 
 Start the answer directly. No small talk please.
 """
+
 def set_custom_prompt(custom_prompt_template):
     prompt = PromptTemplate(
         template=custom_prompt_template,
